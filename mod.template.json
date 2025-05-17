@@ -4,7 +4,7 @@
   "id": "${mod_id}",
   "author": "Sc2ad",
   "version": "${version}",
-  "packageId": "com.beatgames.beatsaber",
+  "packageId": "com.beatgames.beatpaber",
   "packageVersion": "1.28.0_4124311467",
   "description": "A core library used by almost every mod. DO NOT ATTEMPT TO UNINSTALL IT!",
   "coverImage": "cover.png",
